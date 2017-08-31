@@ -16,6 +16,7 @@ public class CLass2Homework {
      */
     public static void main(String[] args) {
         Person johnObject = new Person("John", "Smith", 35);
+        Person maryObject = new Person("Mary", "Smith", 34);
     }
     
 }
