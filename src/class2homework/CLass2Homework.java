@@ -15,7 +15,7 @@ public class CLass2Homework {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        Person johnObject = new Person("John", "Smith", 35);
     }
     
 }
